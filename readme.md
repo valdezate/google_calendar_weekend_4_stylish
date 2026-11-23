@@ -37,6 +37,6 @@ Si deseas cambiar el color de los fines de semana, simplemente busca el código 
 }
 ```
 
-## 📄 Licencia
+## 📄 Nota
 
-Este proyecto es de uso libre. Siéntete libre de modificarlo, compartirlo o adaptarlo a tus necesidades.
+Este proyecto está obsoleto. Ahora mismo hay extensiones mejores como G-Calize (https://chromewebstore.google.com/detail/g-calize/piiljfhidimfponnkjlkecnpjhdijfde) con mayor configuración y posibilidades.
